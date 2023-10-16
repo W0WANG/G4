@@ -1,0 +1,27 @@
+# 分配圖
+
+![分配圖](分配.jpg)
+
+
+# 甘特圖
+```mermaid
+gantt
+    title 甘特圖
+
+    section 1
+    研擬計畫           :a1, 2023-10-01, 1d
+    section 2
+    任務分配      :a2, after a1  , 1d
+    section 3
+    資料蒐集      :a3, after a2  , 3d
+    section 4
+    建置環境      :a4, after a3  , 2d
+    section 5
+    建構資料庫      :a5, after a4  , 14d
+    section 6
+    研究程式      :a6, after a5  , 20d
+    section 7
+    使用者介面設計      :a7, after a6  , 14d
+    
+
+```
