@@ -32,6 +32,15 @@
 ![使用案例圖](使用案例圖.jpg "使用案例圖")
 
 # 使用案例說明
+| 使用案例名稱 | Aligned  |
+| :---------- |:---------------|
+| 行動者      | some wordy text |
+| 說明        | centered        |
+| 完成動作    | some wordy text |
+| 替代方法    | 測試 |
+| 先決條件    | 測試 |
+| 後置條件    | 測試 |
+| 假設        | 測試 |
 
 # Figma動態模擬畫面
 https://www.figma.com/file/7tQOhNwKdpoUnOn2sSzlsB/%E7%B3%BB%E7%B5%B1%E5%88%86%E6%9E%90%E8%88%87%E8%A8%AD%E8%A8%88?type=design&mode=design&t=4tRVWGRl6EX7VubS-0
