@@ -5,7 +5,7 @@
 ![循序圖-登入登出.drawio](循序圖-登入登出.drawio.png "循序圖-登入登出.drawio")
 
 # 活動圖(登入登出)
-![活動圖-登入登出.drawio (1)](活動圖-登入登出.drawio (1).png "活動圖-登入登出.drawio (1)")
+![活動圖-登入登出.drawio](活動圖-登入登出.drawio.png "活動圖-登入登出.drawio")
 
 # 循序圖(使用者編輯瀏覽)
 ![循序圖-瀏覽編輯留言.drawio](循序圖-瀏覽編輯留言.drawio.png "循序圖-瀏覽編輯留言.drawio")
